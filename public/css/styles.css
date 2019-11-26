@@ -296,3 +296,10 @@ nav {
   grid-row: 3 / 4;
   padding: 20px;
 }
+
+.box-7 {
+  background: fuchsia;
+  grid-column: 5 / 7;
+  grid-row: 4 / 5;
+  padding: 20px;
+}
